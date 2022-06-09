@@ -1,2 +1,2 @@
 # vargasmolina
-Detalles
+Detalles de vargas molina
